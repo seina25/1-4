@@ -23,8 +23,8 @@
   margin: 0 auto;
 }
 
-.sidebar {
-  width: 960px;
+.sidebar1 {
+  width: 230px;
   height: 1400px;
   background-color: palegreen;
 }
@@ -33,6 +33,12 @@
   width: 500px;
   height: 1400px;
   background-color: limegreen;
+}
+
+.sidebar2 {
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
 }
 
 .footer {
